@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pain-apk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/Pain-apk/Leetcode/tree/master/0742-to-lower-case) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pain-apk/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pain-apk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pain-apk/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pain-apk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pain-apk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
 |  |
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pain-apk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pain-apk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
