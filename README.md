@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pain-apk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pain-apk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pain-apk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0941-sort-array-by-parity](https://github.com/Pain-apk/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Two Pointers
 |  |
