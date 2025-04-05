@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pain-apk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0941-sort-array-by-parity](https://github.com/Pain-apk/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pain-apk/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Pain-apk/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pain-apk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
