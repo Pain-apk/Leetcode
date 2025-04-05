@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pain-apk/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pain-apk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0941-sort-array-by-parity](https://github.com/Pain-apk/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pain-apk/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pain-apk/Leetcode/tree/master/0001-two-sum) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pain-apk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pain-apk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
