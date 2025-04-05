@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pain-apk/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pain-apk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0941-sort-array-by-parity](https://github.com/Pain-apk/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Pain-apk/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pain-apk/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Pain-apk/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pain-apk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/Pain-apk/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Pain-apk/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Math
 |  |
 | ------- |
