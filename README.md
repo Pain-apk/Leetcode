@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pain-apk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pain-apk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pain-apk/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/Pain-apk/Leetcode/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
 | ------- |
